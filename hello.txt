@@ -1,4 +1,12 @@
 master
 bug
 3333
+<<<<<<< HEAD
 4444
+=======
+reer
+ttrt
+
+
+
+>>>>>>> parent of ec34c3f... fd
